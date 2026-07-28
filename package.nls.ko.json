@@ -1,0 +1,12 @@
+{
+"extension.displayName": "DotHider",
+"extension.description": "탐색기에서 dotfiles 표시를 전환합니다",
+"command.toggle.title": "DotHider: 전환",
+"command.show.title": "DotHider: 표시",
+"command.hide.title": "DotHider: 숨김",
+"config.title": "DotHider",
+"config.patterns.description": "탐색기에서 숨길 패턴입니다",
+"config.target.description": "숨김 패턴을 저장할 위치입니다",
+"config.target.workspace": "현재 작업 영역에 저장",
+"config.target.user": "사용자 설정에 저장"
+}

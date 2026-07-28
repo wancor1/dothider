@@ -1,0 +1,12 @@
+{
+"extension.displayName": "DotHider",
+"extension.description": "エクスプローラーでドットファイルの表示を切り替える",
+"command.toggle.title": "DotHider: 切り替え",
+"command.show.title": "DotHider: 表示",
+"command.hide.title": "DotHider: 非表示",
+"config.title": "DotHider",
+"config.patterns.description": "エクスプローラーで隠すパターン",
+"config.target.description": "非表示パターンの保存先",
+"config.target.workspace": "現在のワークスペースに保存",
+"config.target.user": "ユーザー設定に保存"
+}

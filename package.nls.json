@@ -1,0 +1,12 @@
+{
+"extension.displayName": "DotHider",
+"extension.description": "Toggle visibility of dotfiles in the Explorer.",
+"command.toggle.title": "DotHider: Toggle",
+"command.show.title": "DotHider: Show",
+"command.hide.title": "DotHider: Hide",
+"config.title": "DotHider",
+"config.patterns.description": "Patterns to hide in the Explorer.",
+"config.target.description": "Where to save the hide patterns.",
+"config.target.workspace": "Save to the current workspace",
+"config.target.user": "Save to user settings"
+}

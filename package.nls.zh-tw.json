@@ -1,0 +1,12 @@
+{
+"extension.displayName": "DotHider",
+"extension.description": "切換檔案總管中 dotfiles 的顯示狀態",
+"command.toggle.title": "DotHider：切換",
+"command.show.title": "DotHider：顯示",
+"command.hide.title": "DotHider：隱藏",
+"config.title": "DotHider",
+"config.patterns.description": "要在檔案總管中隱藏的模式",
+"config.target.description": "隱藏模式的儲存位置",
+"config.target.workspace": "儲存到目前的工作區",
+"config.target.user": "儲存到使用者設定"
+}

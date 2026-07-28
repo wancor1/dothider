@@ -1,0 +1,8 @@
+{
+  "status.show": "DotHider: Show",
+  "status.hide": "DotHider: Hide",
+  "tooltip.show": "Dotfiles are visible. Click to hide.",
+  "tooltip.hide": "Dotfiles are hidden. Click to show.",
+  "notification.enabled": "Dotfiles are now hidden.",
+  "notification.disabled": "Dotfiles are now visible."
+}

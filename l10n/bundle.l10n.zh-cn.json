@@ -1,0 +1,8 @@
+{
+  "DotHider: Show": "DotHider：显示",
+  "DotHider: Hide": "DotHider：隐藏",
+  "Dotfiles are visible. Click to hide.": "Dotfiles 当前可见，点击后隐藏。",
+  "Dotfiles are hidden. Click to show.": "Dotfiles 当前已隐藏，点击后显示。",
+  "Dotfiles are now visible.": "已显示 Dotfiles。",
+  "Dotfiles are now hidden.": "已隐藏 Dotfiles。"
+}

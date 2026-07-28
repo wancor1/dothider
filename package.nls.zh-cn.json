@@ -1,0 +1,12 @@
+{
+"extension.displayName": "DotHider",
+"extension.description": "切换资源管理器中 dotfiles 的显示状态",
+"command.toggle.title": "DotHider：切换",
+"command.show.title": "DotHider：显示",
+"command.hide.title": "DotHider：隐藏",
+"config.title": "DotHider",
+"config.patterns.description": "要在资源管理器中隐藏的模式",
+"config.target.description": "隐藏模式的保存位置",
+"config.target.workspace": "保存到当前工作区",
+"config.target.user": "保存到用户设置"
+}

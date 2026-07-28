@@ -5,6 +5,8 @@
   "l10n": "./l10n",
   "version": "1.0.0",
   "publisher": "wancoro_inu",
+  "license": "Apache-2.0",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },

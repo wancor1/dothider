@@ -4,7 +4,8 @@
   "description": "%extension.description%",
   "l10n": "./l10n",
   "version": "1.0.0",
-  "publisher": "wancoro_inu",
+  "publisher": "wancoroinu",
+  "repository": "https://github.com/wancor1/dothider",
   "license": "Apache-2.0",
   "icon": "icon.png",
   "engines": {
